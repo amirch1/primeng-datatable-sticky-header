@@ -1,0 +1,25 @@
+.header{
+    height: 50px;
+    width: 100%;
+    background-color:cornflowerblue;
+    color:black;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    line-height: 50px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+}
+p-dataTable{
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-right: 20px;
+    display: block;
+}
+
+:host /deep/ p-datatable .stickyHeader{
+  box-shadow: 2px 2px 1px #888888;
+}
