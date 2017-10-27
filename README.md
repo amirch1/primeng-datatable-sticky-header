@@ -1,4 +1,4 @@
-# Sticky Datatable Header
+# PrimeNG Sticky Datatable Header
 
 A directive that can set a [PrimeNG Datatable](https://www.primefaces.org/primeng/#/datatable) header to sticky when scrolling the page. 
 This feature prevents the header from scrolling with the table thus keeping the user in context and allowing data sort even when scrolled.
